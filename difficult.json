@@ -1,0 +1,28 @@
+{
+    "version": 1,
+    "message": "Quran difficult words",
+    "words": [
+        {
+          "surah": "Al-Isra'",
+          "surahNumber": 16,
+          "ayahNumber": 73,
+          "word": "لَيَفْتِنُونَكَ",
+          "audio": "https://audio.qurancdn.com/wbw/017_073_003.mp3",
+          "image": "https://everyayah.com/data/images_png/SS_VV.png",
+          "husary": "https://everyayah.com/data/Husary_64kbps/016073.mp3",
+          "suwaid": "https://everyayah.com/data/Ayman_Sowaid_64kbps/016073.mp3",
+          "level": "Hard"
+        },
+        {
+            "surah": "",
+            "surahNumber": 16,
+            "ayahNumber": 16,
+            "word": "",
+            "audio": "https://audio.qurancdn.com/wbw/SSS_VVV_ppp.mp3",
+            "image": "https://everyayah.com/data/images_png/SS_VV.png",
+            "husary": "https://everyayah.com/data/Husary_64kbps/SSSVVV.mp3",
+            "suwaid": "https://everyayah.com/data/Ayman_Sowaid_64kbps/SSSVVV.mp3",
+            "level": "Hard"
+        }
+      ]
+  }
