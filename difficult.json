@@ -14,14 +14,12 @@
           "level": "Hard"
         },
         {
-            "surah": "",
-            "surahNumber": 16,
-            "ayahNumber": 16,
-            "word": "",
-            "audio": "https://audio.qurancdn.com/wbw/SSS_VVV_ppp.mp3",
-            "image": "https://everyayah.com/data/images_png/SS_VV.png",
-            "husary": "https://everyayah.com/data/Husary_64kbps/SSSVVV.mp3",
-            "suwaid": "https://everyayah.com/data/Ayman_Sowaid_64kbps/SSSVVV.mp3",
+            "surah": "Al-Isra'",
+            "surahNumber": 17,
+            "ayahNumber": 76,
+            "word": "لَيَسْتَفِزُّونَكَ ",
+            "audio": "https://audio.qurancdn.com/wbw/017_076_003.mp3",
+            "image": "https://everyayah.com/data/images_png/17_76.png",
             "level": "Hard"
         }
       ]
