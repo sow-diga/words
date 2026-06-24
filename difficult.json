@@ -31,6 +31,64 @@
             "word": "لِرُقِيِّكَ",
             "wordPosition": 13,
             "level": "Hard"
+        },
+        {
+            "surah": "Al-A'raaf",
+            "surahNumber": 7,
+            "ayahNumber": 156,
+            "word": "ٱلزَّكَوٰةَ",
+            "wordPosition": 26,
+            "level": "Medium"
+        },
+        {
+            "surah": "Al-A'raaf",
+            "surahNumber": 7,
+            "ayahNumber": 101,
+            "word": "رُسُلُهُم",
+            "wordPosition": 9,
+            "level": "Easy"
+        },
+        {
+            "surah": "Al-A'raaf",
+            "surahNumber": 7,
+            "ayahNumber": 97,
+            "word": "يَأْتِيَهُم",
+            "wordPosition": 5,
+            "level": "Medium"
+        },
+        {
+            "surah": "Al-A'raaf",
+            "surahNumber": 7,
+            "ayahNumber": 170,
+            "word": "يُمَسِّكُونَ",
+            "wordPosition": 2,
+            "level": "Easy"
+        },
+        {
+            "surah": "Al-A'raaf",
+            "surahNumber": 7,
+            "ayahNumber": 165,
+            "word": "وَأَخَذْنَا",
+            "wordPosition": 11,
+            "level": "Medium"
+        },
+        {
+            "surah": "Al-A'raaf",
+            "surahNumber": 7,
+            "ayahNumber": 171,
+            "word": "نَتَقْنَا",
+            "english": "We raised",
+            "wordPosition": 2,
+            "level": "Easy"
+        },
+        {
+            "surah": "Al-A'raaf",
+            "surahNumber": 7,
+            "ayahNumber": 182,
+            "word": "سَنَسْتَدْرِجُهُم",
+            "english": "We raised",
+            "wordPosition": 4,
+            "level": "Medium"
         }
       ]
   }
