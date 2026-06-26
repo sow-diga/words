@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "message": "Quran difficult words",
+    "words": [
+        {
+            "surah": "Al-A'raaf",
+            "surahNumber": 7,
+            "ayahNumber": 157,
+            "word": "ٱلْأُمِّىَّ",
+            "wordPosition": 5,
+            "level": "Medium"
+        }
+      ]
+  }
