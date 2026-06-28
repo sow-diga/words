@@ -1,12 +1,22 @@
 {
     "version": 1,
-    "message": "Quran difficult words",
+    "message": "Hifdh mistakes",
     "words": [
         {
-            "surah": "Al-A'raaf",
             "surahNumber": 7,
             "ayahNumber": 157,
             "word": "ٱلْأُمِّىَّ",
+            "english": "Unlettered",
+            "comment": "",
+            "wordPosition": 5,
+            "level": "Medium"
+        },
+        {
+            "surahNumber": 16,
+            "ayahNumber": 5,
+            "word": "دِفْءٌۭ",
+            "english": "Warmth",
+            "comment": "",
             "wordPosition": 5,
             "level": "Medium"
         }
