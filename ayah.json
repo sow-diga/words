@@ -10,6 +10,51 @@
             "comment": "",
             "wordPosition": 1,
             "level": "Medium"
+        },
+        {
+            "surahNumber": 66,
+            "ayahNumber": 1,
+            "word": "تَبْتَغِى",
+            "english": "seeking",
+            "comment": "",
+            "wordPosition": 9,
+            "level": "Medium"
+        },
+        {
+            "surahNumber": 66,
+            "ayahNumber": 2,
+            "word": "تَحِلَّةَ",
+            "english": "dissolution",
+            "comment": "",
+            "wordPosition": 5,
+            "level": "Medium"
+        },
+        {
+            "surahNumber": 66,
+            "ayahNumber": 3,
+            "word": "أَسَرَّ",
+            "english": "confided",
+            "comment": "",
+            "wordPosition": 2,
+            "level": "Medium"
+        },
+        {
+            "surahNumber": 66,
+            "ayahNumber": 3,
+            "word": "وَأَظْهَرَهُ",
+            "english": "made it apparent",
+            "comment": "",
+            "wordPosition": 11,
+            "level": "Medium"
+        },
+        {
+            "surahNumber": 66,
+            "ayahNumber": 3,
+            "word": "نَبَّأَهَا بِهِۦ",
+            "english": "he informed her",
+            "comment": "",
+            "wordPosition": 20,
+            "level": "Medium"
         }
       ]
   }
